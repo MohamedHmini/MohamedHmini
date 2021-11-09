@@ -8,5 +8,5 @@
 <p>
 <a href="https://github.com/MohamedHmini"><img src="https://img.shields.io/badge/-Mohamed_Hmini-black?logo=github&style=flat-square"/></a>
 <a href="https://https://www.linkedin.com/in/mhmini/"><img src="https://img.shields.io/badge/-Mohamed_Hmini-blue?logo=linkedin&style=flat-square"></a>
-<a href="mohamed@mhmini.com"><img src="https://img.shields.io/badge/-mhmini@insea.ac.ma-black?style=flat-square"/></a>
+<a href="mohamed@mhmini.com"><img src="https://img.shields.io/badge/-mohamed@mhmini.com-black?style=flat-square"/></a>
 </p>
